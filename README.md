@@ -17,11 +17,11 @@ A script to perform WHOIS lookups, providing information about the ownership and
 ### 4. Crypto Cipher
 A script for basic encryption and decryption using ciphers. It demonstrates simple cryptographic techniques and how to implement them in Python.
 
-### 5. Brute Forcing
-A script for brute-forcing passwords, demonstrating how attackers might use brute-force methods to crack passwords. This is intended for educational purposes only.
+### 5. Directory Brute Forcing
+Directory brute-forcing involves systematically checking a list of potential directories and file names against a web server to discover hidden or non-publicly linked content.
 
 ### 6. Password Manager
-A password manager script that securely stores and retrieves passwords. It includes functionality for encrypting and decrypting stored passwords.
+A simple script that simulates the process of logging in and creating an account using only the username and password.
 
 ### 7. DNS Enumeration
 A script for performing DNS enumeration to discover subdomains and other DNS records associated with a domain.
